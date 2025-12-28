@@ -15,7 +15,7 @@ public class Main {
             // for you, but you can always add more by pressing Cmd+F8.
             System.out.println("proi = " + i);
 
-            //git commit2;
+            //git commit;
 
         }
     }
